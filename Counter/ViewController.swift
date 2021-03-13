@@ -1,9 +1,3 @@
-//
-//  ViewController.swift
-//  Counter
-//
-//  Created by Student on 06.03.2021.
-//
 
 import UIKit
 
